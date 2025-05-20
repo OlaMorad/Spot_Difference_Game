@@ -35,4 +35,12 @@
     <PackageReference Include="OpenCvSharp4.Windows" Version="4.11.0.20250507" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Logic\" />
+    <Folder Include="images\" />
+    <Folder Include="Levels\" />
+    <Folder Include="Audio\" />
+    <Folder Include="UI\" />
+  </ItemGroup>
+
 </Project>
